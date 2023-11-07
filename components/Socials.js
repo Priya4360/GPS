@@ -10,7 +10,7 @@ const Socials = () => {
       <Link href={""} className='hover:text-accent transition-all duration-300'>
         <RiYoutubeLine/>
       </Link>
-      <Link href={""} className='hover:text-accent transition-all duration-300'>
+      <Link href={"https://instagram.com/gpsfdk?utm_source=qr"} className='hover:text-accent transition-all duration-300'>
         <RiInstagramLine/>
       </Link>
       <Link href={""} className='hover:text-accent transition-all duration-300'>
